@@ -22,7 +22,7 @@ This is an rough JSON api for Team Dashboard to plug different api on it.
 
 ### Link to the dashboard tool
 
-[foo]: http://fdietz.github.io/team_dashboard/  "Team Dashboard Home page"
+[Team Dashboard Homepage](http://fdietz.github.io/team_dashboard/)
 
 
 ### List of available methos
@@ -31,3 +31,6 @@ This is an rough JSON api for Team Dashboard to plug different api on it.
     > nb reviews for a user
 *   /getOpenByProduct/?product1=repo1,repo2&product2=repo1,repo3
     > get one graph by product
+
+### Example
+![Alt text](/images/gerrit_example.jpg)
