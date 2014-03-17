@@ -2,7 +2,7 @@
 
 This is a rough JSON api for Team Dashboard to plug different api on it.
 
-## Setup:
+## Setup
 
 + Install Team Dashboard
 + Configure team dashboard data python/config.py
