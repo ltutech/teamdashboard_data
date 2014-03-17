@@ -1,6 +1,6 @@
 # Team Dashboard data
 
-This is an rough JSON api for Team Dashboard to plug different api on it.
+This is a rough JSON api for Team Dashboard to plug different api on it.
 
 ## How to:
 
